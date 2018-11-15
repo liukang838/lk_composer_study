@@ -1,5 +1,5 @@
 {
-    "name": "lk/composer_study",
+    "name": "liukang/composer_study",
     "description": "这是我赖包哦",
     "type": "project",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload":{
         "psr-4":{
-            "Lk\\composer_study\\":"src/Content/Start"
+            "Liukang\\composer_study\\":"src/Content/Start"
         }
     }
 }
