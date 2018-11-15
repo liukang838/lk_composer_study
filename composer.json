@@ -1,0 +1,21 @@
+{
+    "name": "lk/composer_study",
+    "description": "这是我赖包哦",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liukang",
+            "email": "971909657@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=7.1.0",
+    },
+    "autoload":{
+        "psr-4":{
+            "Lk\\composer_study\\":"src/Content/Start"
+        }
+    }
+}
