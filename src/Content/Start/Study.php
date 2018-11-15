@@ -8,8 +8,7 @@
 
 namespace Content\Start;
 
-
-class study
+class Study
 {
     public function __construct()
     {
