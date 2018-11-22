@@ -2,7 +2,7 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src/Content/Start" isTestSource="false" packagePrefix="Liukang\Comstudy\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Content/Start" isTestSource="false" packagePrefix="Lk_composer_study\" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
     </content>
     <orderEntry type="inheritedJdk" />
