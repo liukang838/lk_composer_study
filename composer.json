@@ -15,7 +15,7 @@
     },
     "autoload":{
         "psr-4":{
-            "Lk_composer_study\\":"src/Content/Start"
+            "Liukang\\Composer_study\\":"src/Content/Start"
         }
     }
 }
