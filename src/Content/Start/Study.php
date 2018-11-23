@@ -6,7 +6,7 @@
  * Time: 下午11:55
  */
 
-namespace Content\Start;
+namespace liukang\composer_study\Content\Start;
 
 class Study
 {
