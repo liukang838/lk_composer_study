@@ -6,14 +6,10 @@
  * Time: 下午11:55
  */
 
-namespace liukang\composer_study\Content\Start;
+namespace Liukang\ComposerStudy\Content\Start;
 
 class Study
 {
-    public function __construct()
-    {
-    }
-
     public function index()
     {
         echo "hello composer!";
